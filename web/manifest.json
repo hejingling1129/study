@@ -1,0 +1,11 @@
+{
+  "name": "星助校园",
+  "short_name": "星助校园",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f8f7fc",
+  "theme_color": "#5b58d8",
+  "description": "星助校园 - 校园 AI 助手",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
